@@ -1,0 +1,22 @@
+
+
+# Packages
+library(ggplot2)
+library(janitor)
+library(dplyr)
+library(tidyverse)
+library(visdat)
+library(brms)
+library(readxl)
+library(modelr)
+library(tidybayes)
+library(broom)
+library(parameters)
+library(mets)
+library(panelr)
+library(broom.mixed)
+library(tidybayes)
+library(mgcv)
+library(emmeans)
+library(cowplot)
+library(mgcv.helper)
